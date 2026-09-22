@@ -1,0 +1,34 @@
+{
+  "item": {
+    "id": "top.zeora.band.metronome",
+    "restype": "quick_app",
+    "name": "节拍器",
+    "description": "这是一款运行在小米手环上的轻量级节拍器应用，方便用户在练习乐器、唱歌或进行节奏训练时快速使用。",
+    "preview": [
+      "media/微信图片_20260919211805_111_21.png",
+      "media/微信图片_20260919211818_112_21.png"
+    ],
+    "icon": "media/logo.png",
+    "cover": "media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg",
+    "author": [
+      {
+        "name": "zeora",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "2.1.7",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.1.7.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "2.1.7",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.1.7.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
