@@ -22,7 +22,13 @@
     "xmb10nfc": {
       "version": "2.1.7",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.1.7.rpk",
-      "versionCode": 1
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "2.1.7",
+          "content": "修复节拍模式"
+        }
+      ]
     },
     "xmb10": {
       "version": "2.1.7",
