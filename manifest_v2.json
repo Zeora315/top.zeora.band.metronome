@@ -17,7 +17,18 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "官网",
+      "url": "https://zeora.top/project-detail.html?p=top.zeora.band.metronome",
+      "icon": "Link"
+    },
+    {
+      "title": "文档",
+      "url": "https://zeoratop.feishu.cn/wiki/D0c1w6UNoiVfJCkDxyPcb4NBnQb",
+      "icon": "BookOpen"
+    }
+  ],
   "downloads": {
     "xmb10nfc": {
       "version": "2.2.0",
@@ -33,6 +44,16 @@
     "xmb10": {
       "version": "2.2.0",
       "file_name": "downloads/top.zeora.band.metronome.release.2.2.0.rpk",
+      "versionCode": 2
+    },
+    "xmb11": {
+      "version": "2.2.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.2.0.rpk",
+      "versionCode": 2
+    },
+    "xmb11nfc": {
+      "version": "2.2.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.2.0.rpk",
       "versionCode": 2
     }
   },
