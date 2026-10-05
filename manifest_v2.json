@@ -21,12 +21,12 @@
     {
       "title": "官网",
       "url": "https://zeora.top/project-detail.html?p=top.zeora.band.metronome",
-      "icon": "Link"
+      "icon": "link"
     },
     {
       "title": "文档",
       "url": "https://zeoratop.feishu.cn/wiki/D0c1w6UNoiVfJCkDxyPcb4NBnQb",
-      "icon": "BookOpen"
+      "icon": "book-open"
     }
   ],
   "downloads": {
