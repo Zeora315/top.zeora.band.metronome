@@ -9,7 +9,7 @@
       "media/微信图片_20260919211818_112_21.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/Screenshot_2026-09-19-22-30-34-912_com.lemon.lv_1789828253986edit.jpg",
+    "cover": "media/Screenshot_2026-10-18-10-53-34-943_1792295285470edit.jpg",
     "author": [
       {
         "name": "zeora",
@@ -31,9 +31,9 @@
   ],
   "downloads": {
     "xmb10nfc": {
-      "version": "2.2.0",
-      "file_name": "downloads/top.zeora.band.metronome.release.2.2.0.rpk",
-      "versionCode": 2,
+      "version": "2.3.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
+      "versionCode": 3,
       "updatelogs": [
         {
           "version": "2.1.7",
@@ -42,19 +42,19 @@
       ]
     },
     "xmb10": {
-      "version": "2.2.0",
-      "file_name": "downloads/top.zeora.band.metronome.release.2.2.0.rpk",
-      "versionCode": 2
+      "version": "2.3.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
+      "versionCode": 3
     },
     "xmb11": {
-      "version": "2.2.0",
-      "file_name": "downloads/top.zeora.band.metronome.debug.2.2.0.rpk",
-      "versionCode": 2
+      "version": "2.3.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
+      "versionCode": 3
     },
     "xmb11nfc": {
-      "version": "2.2.0",
-      "file_name": "downloads/top.zeora.band.metronome.debug.2.2.0.rpk",
-      "versionCode": 2
+      "version": "2.3.0",
+      "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
+      "versionCode": 3
     }
   },
   "ext": {}
