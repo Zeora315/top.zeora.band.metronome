@@ -35,18 +35,12 @@
     }
   ],
   "downloads": {
-    "xmb10nfc": {
+    "xmb10": {
       "version": "2.5.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.5.0.rpk",
-      "versionCode": 5,
-      "updatelogs": [
-        {
-          "version": "2.1.7",
-          "content": "修复节拍模式"
-        }
-      ]
+      "versionCode": 5
     },
-    "xmb10": {
+    "xmb10nfc": {
       "version": "2.5.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.5.0.rpk",
       "versionCode": 5
