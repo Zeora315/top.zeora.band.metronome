@@ -27,13 +27,18 @@
       "title": "文档",
       "url": "https://zeoratop.feishu.cn/wiki/D0c1w6UNoiVfJCkDxyPcb4NBnQb",
       "icon": "book-open"
+    },
+    {
+      "title": "官方Q 群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=VKmt8pvdrBtB3CjdZysw97iVU9P5%2BrpcRiHyJQmug6DzI28tzm%2FWWWRZvj9w0XHK&busi_data=eyJncm91cENvZGUiOiIyNDkyNDcxMzkiLCJ0b2tlbiI6IlEyOEx5eG03OExJRVRyQzZuZC90RzhUb0phWm5zRVJINFQ2OHRqNW1nc1NwTGVwOWRBWlJiN0hwNlRlN0UrNEoiLCJ1aW4iOiIyMTQxNjcyMTg1In0%3D&data=FLRM7qMVJIthEuWP7lGAkuAgB2pnGbVc3PPAYj5Kv4HT3aIrrgCtP95SzRLTq2CVtFKeOSszFzCkvY-TAdmzyg&svctype=4&tempid=h5_group_info",
+      "icon": "chat-circle"
     }
   ],
   "downloads": {
     "xmb10nfc": {
       "version": "2.3.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
-      "versionCode": 3,
+      "versionCode": 4,
       "updatelogs": [
         {
           "version": "2.1.7",
@@ -44,17 +49,17 @@
     "xmb10": {
       "version": "2.3.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
-      "versionCode": 3
+      "versionCode": 4
     },
     "xmb11": {
       "version": "2.3.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
-      "versionCode": 3
+      "versionCode": 4
     },
     "xmb11nfc": {
       "version": "2.3.0",
       "file_name": "downloads/top.zeora.band.metronome.debug.2.3.0.rpk",
-      "versionCode": 3
+      "versionCode": 4
     }
   },
   "ext": {}
