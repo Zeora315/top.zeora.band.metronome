@@ -5,8 +5,10 @@
     "name": "节拍器",
     "description": "这是一款运行在小米手环上的轻量级节拍器应用，方便用户在练习乐器、唱歌或进行节奏训练时快速使用。",
     "preview": [
-      "media/微信图片_20260919211805_111_21.png",
-      "media/微信图片_20260919211818_112_21.png"
+      "media/xiaomi_band_10-2026-10-26-21-49-04.png",
+      "media/xiaomi_band_10-2026-10-26-21-47-35-2.png",
+      "media/xiaomi_band_10-2026-10-26-21-48-04.png",
+      "media/xiaomi_band_10-2026-10-26-21-48-21.png"
     ],
     "icon": "media/logo.png",
     "cover": "media/Screenshot_2026-10-18-10-53-34-943_1792295285470edit.jpg",
@@ -32,6 +34,11 @@
       "title": "官方Q 群",
       "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=VKmt8pvdrBtB3CjdZysw97iVU9P5%2BrpcRiHyJQmug6DzI28tzm%2FWWWRZvj9w0XHK&busi_data=eyJncm91cENvZGUiOiIyNDkyNDcxMzkiLCJ0b2tlbiI6IlEyOEx5eG03OExJRVRyQzZuZC90RzhUb0phWm5zRVJINFQ2OHRqNW1nc1NwTGVwOWRBWlJiN0hwNlRlN0UrNEoiLCJ1aW4iOiIyMTQxNjcyMTg1In0%3D&data=FLRM7qMVJIthEuWP7lGAkuAgB2pnGbVc3PPAYj5Kv4HT3aIrrgCtP95SzRLTq2CVtFKeOSszFzCkvY-TAdmzyg&svctype=4&tempid=h5_group_info",
       "icon": "chat-circle"
+    },
+    {
+      "title": "爱发电",
+      "url": "https://afdian.com/a/zeora",
+      "icon": "article"
     }
   ],
   "downloads": {
